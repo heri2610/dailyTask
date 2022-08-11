@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Figtree:wght@300&family=Montserrat:wght@700&family=Oleo+Script+Swash+Caps&family=Roboto:wght@100&family=Rubik+Dirt&family=Rubik+Marker+Hatch&family=Smooch&display=swap");
+* {
+  margin: 0;
+}
+.paragraf {
+  /* default style tags p */
+  font-family: "Figtree", sans-serif;
+}
+.p1 {
+  background-color: red;
+  font-family: "Montserrat", sans-serif;
+  font-size: 50px;
+}
+.p2 {
+  background-color: yellow;
+  font-family: "Oleo Script Swash Caps", cursive;
+  font-size: 100px;
+}
+.p3 {
+  background-color: green;
+  font-family: "Roboto", sans-serif;
+  font-size: 150px;
+}
+.p4 {
+  background-color: blue;
+  font-family: "Rubik Dirt", cursive;
+  font-size: 200px;
+}
+.p5 {
+  background-color: aqua;
+  font-family: "Smooch", cursive;
+  font-size: 250px;
+}
+.p6 {
+  background-color: rgb(100, 200, 10);
+  font-family: "Rubik Marker Hatch", cursive;
+  font-size: 300px;
+}
